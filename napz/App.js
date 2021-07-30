@@ -74,7 +74,7 @@ class Home extends Component {
 
 
 // ***************** the following functions were taken from Expo docs: *****************
-// Push notifications not yet fully implemented
+// Push notifications not yet implemented
 
 /*
 
