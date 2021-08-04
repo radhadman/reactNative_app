@@ -242,7 +242,7 @@ class Home extends Component {
 
 
 
-// for Add Nap function (not finished yet)
+//
 function Select({ navigation }) {
 
     const [selectedValue, setSelectedValue] = useState(30);
